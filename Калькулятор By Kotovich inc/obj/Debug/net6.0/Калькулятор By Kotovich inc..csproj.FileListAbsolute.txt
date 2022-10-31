@@ -1,0 +1,5 @@
+C:\Калькулятор By Kotovich inc\Калькулятор By Kotovich inc\obj\Debug\net6.0\Калькулятор By Kotovich inc..csproj.AssemblyReference.cache
+C:\Калькулятор By Kotovich inc\Калькулятор By Kotovich inc\obj\Debug\net6.0\Калькулятор By Kotovich inc..GeneratedMSBuildEditorConfig.editorconfig
+C:\Калькулятор By Kotovich inc\Калькулятор By Kotovich inc\obj\Debug\net6.0\Калькулятор By Kotovich inc..AssemblyInfoInputs.cache
+C:\Калькулятор By Kotovich inc\Калькулятор By Kotovich inc\obj\Debug\net6.0\Калькулятор By Kotovich inc..AssemblyInfo.cs
+C:\Калькулятор By Kotovich inc\Калькулятор By Kotovich inc\obj\Debug\net6.0\Калькулятор By Kotovich inc..csproj.CoreCompileInputs.cache
